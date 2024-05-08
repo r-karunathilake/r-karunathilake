@@ -1,16 +1,13 @@
-### Hi there 👋
+# 💫 About Me:
+👋 Hey there!<br>🎓 Electrical Engineering<br>💼 Firmware Development, test automation, and photonic research<br>🚀 Diving headfirst into the world of software development<br>💻 Crafting concise, unit-testable, and well-documented code<br>🌲  Embracing new technologies to bridge software and hardware 
 
-<!--
-**r-karunathilake/r-karunathilake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ravindu-k) 
 
-Here are some ideas to get you started:
+# 💻 Primary Languages:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📊 Statistics:
+![](https://github-readme-streak-stats.herokuapp.com/?user=r-karunathilake&theme=monokai&hide_border=false)<br/>
+
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
