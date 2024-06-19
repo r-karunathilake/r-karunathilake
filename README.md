@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there!<br>🎓 Electrical Engineering<br>💼 Firmware Development, test automation, and photonic research<br>🚀 Diving headfirst into the world of software development<br>💻 Crafting concise, unit-testable, and well-documented code<br>🌲  Embracing new technologies to bridge software and hardware 
+👋 Hey there!<br>🎓 Electrical Engineering<br>💼 Firmware, web applications, test automation, and photonic research<br>🚀 Diving headfirst into the world of software development<br>💻 Crafting concise, unit-testable, and well-documented code<br>🌲  Embracing new technologies to bridge software and hardware divide
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravindu-k) 
 
